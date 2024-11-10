@@ -2,7 +2,9 @@
  HackPrinceton 24' 
 
 [![demo video](https://img.youtube.com/vi/IAvIcy75gvQ/0.jpg)](https://youtu.be/IAvIcy75gvQ)
-[![timelapse video]](https://img.youtube.com/watch?v=jq7VLJx2Lms.jpg)(https://www.youtube.com/watch?v=jq7VLJx2Lms)
+
+[![timelapse video](https://img.youtube.com/vi/jq7VLJx2Lms/0.jpg)](https://youtu.be/jq7VLJx2Lms)
+
 
 WasteWatch is a computer vision-powered waste detection application that classifies and tracks recyclable, non-recyclable, and hazardous waste in real-time using satellite and CCTV imagery. Built with YOLO, this project aims to monitor pollution and aid in targeted waste management efforts.
 
